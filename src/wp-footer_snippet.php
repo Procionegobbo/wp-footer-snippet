@@ -64,4 +64,3 @@ function procione_wpfs_options() {
 
 add_action('admin_menu', 'procione_wpfs_options');
 add_action('wp_footer', 'procione_wpfs_script');
-?>
