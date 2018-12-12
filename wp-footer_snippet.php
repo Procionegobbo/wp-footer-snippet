@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: wp_footer snippet
-Plugin URI: http://www.procionegobbo.it/blog
+Plugin URI: http://www.procionegobbo.it/
 Description: Inserisce codice html/javascript nel footer del blog. Ha bisogno di un tema che supporti l'hook wp_footer<hr>
 Author: Federico Maiorini aka Procionegobbo
 Version: 0.1a
